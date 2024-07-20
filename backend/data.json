@@ -1,0 +1,51 @@
+[
+  {
+    "id":"7",
+    "title": "Photographs",
+    "details": ["Passport size photographs"]
+  },
+  {
+    "id":"2",
+    "title": "Application Form",
+    "details": ["Completed and signed application form"]
+  },
+  {
+    "id":"3",
+    "title": "Identity Proof",
+    "details": ["A copy of Passport/Aadhar/Voter ID"]
+  },
+  {
+    "id":"1",
+    "title": "Guarantor Form",
+    "details": ["If required by the bank"]
+  },
+  {
+    "id":"6",
+    "title": "Academic Records",
+    "details": ["Mark sheets and degree certificates"]
+  },
+  {
+
+    "id":"8",
+    "title": "Property Documents",
+    "details": ["If applying for a secured loan"]
+  },
+  {
+    
+    "id":"5",
+    "title": "Residence Proof",
+    "details": ["Utility bills", "Rental agreement"]
+  },
+  {
+
+    "id":"9",
+    "title": "Bank Statements",
+    "details": ["Past 6 months of bank statements"]
+  },
+  {
+
+    "id":"4",
+    "title": "Additional Documents",
+    "details": ["As required by the bank"]
+  }
+]
